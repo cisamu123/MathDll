@@ -1,0 +1,6 @@
+C:\Users\pavli\Desktop\MathDll\MathDll\bin\Debug\MathDll.dll
+C:\Users\pavli\Desktop\MathDll\MathDll\bin\Debug\MathDll.pdb
+C:\Users\pavli\Desktop\MathDll\MathDll\obj\Debug\MathDll.csproj.AssemblyReference.cache
+C:\Users\pavli\Desktop\MathDll\MathDll\obj\Debug\MathDll.csproj.CoreCompileInputs.cache
+C:\Users\pavli\Desktop\MathDll\MathDll\obj\Debug\MathDll.dll
+C:\Users\pavli\Desktop\MathDll\MathDll\obj\Debug\MathDll.pdb
